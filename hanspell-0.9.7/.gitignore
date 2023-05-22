@@ -1,0 +1,8 @@
+.vscode
+.bundle
+.DS_Store
+.*.swp
+?
+*tgz
+node_modules*
+npm-debug.log*
